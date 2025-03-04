@@ -13,9 +13,16 @@ document.addEventListener("mousemove", (e) => {
 })
 
 //link p/ os projetos 
+// Store Shoes 
 const project1 = document.getElementById('project1')
 project1.addEventListener("click", () => {
     window.location.href = "https://dev-henriquecouto.github.io/StoreShoes/"
+})
+
+// Web Crud 
+const project2 = document.getElementById('project2')
+project2.addEventListener("click", () => {
+    window.location.href = "https://dev-henriquecouto.github.io/Web-CRUD/"
 })
 
 //curriculo 

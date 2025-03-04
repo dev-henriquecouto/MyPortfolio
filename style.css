@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: #0F172A;
+    background-color: #0b111e;
     display: grid;
     grid-template-areas: "section header";
     justify-content: center;
