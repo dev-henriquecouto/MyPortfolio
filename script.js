@@ -28,7 +28,7 @@ project2.addEventListener("click", () => {
 //curriculo 
 const curriculo = document.getElementById('curriculo')
 curriculo.addEventListener("click", () => {
-    window.location.href = "curriculo/Currículo - Henrique Andrade Couto.pdf"
+    window.location.href = "curriculo/Currículo - Henrique Andrade Couto .pdf"
 })
 
 //contatos 
